@@ -11,8 +11,9 @@
 
 5 - then use from Api in Directory => api.php
 
-
-Api =>   1 - http://127.0.0.1:8000/api/register
+@
+Api => 
+            1 - http://127.0.0.1:8000/api/register
                 
              @post
              -------------------
